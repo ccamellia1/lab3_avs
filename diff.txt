@@ -1,0 +1,8 @@
+diff --git a/notes.txt b/notes.txt
+index 2e0f631..526bff3 100644
+--- a/notes.txt
++++ b/notes.txt
+@@ -1,2 +1,3 @@
+ теормин
+ не теормин
++теормин
